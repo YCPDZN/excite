@@ -22,9 +22,11 @@ To publish it on GitHub Pages, go to Settings → Pages and deploy from the `mai
 | WASD or arrow keys | Left joystick | Walk |
 | Shift | Run button | Run |
 | Drag | Drag | Look around |
-| Scroll | — | Zoom |
-| E or Enter | Use button | Talk, use, continue dialogue |
+| Scroll | Pinch | Zoom |
+| E or Enter | Use button, or tap the prompt | Talk, use, continue dialogue |
 | Q | Wave button | Wave |
+
+The game works on phones and tablets in portrait or landscape. Touch controls appear on touch devices automatically, and on a touchscreen laptop the first touch switches them on.
 
 ### The shift
 
